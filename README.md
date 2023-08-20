@@ -1,2 +1,2 @@
 # leetcode
-Repository to keep track of all my leetcode process 
+Repository to keep track of all my completed leetcode questions
