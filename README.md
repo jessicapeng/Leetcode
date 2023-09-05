@@ -8,7 +8,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 ### Tech interview handbook with weeks broken down
 https://www.techinterviewhandbook.org/coding-interview-study-plan/
 
-### Schedule
+### Schedule Log
 3-5 leetcode problems a day 
 
 #### Day 1: September 5
