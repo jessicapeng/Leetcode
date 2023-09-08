@@ -21,3 +21,8 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 5. Contains Duplicates: https://leetcode.com/problems/contains-duplicate/solutions/4012211/python-one-liner-solution/
 6. Product of Array Except Self: https://leetcode.com/problems/product-of-array-except-self/solutions/4012469/python-solution/ <-- need to fix this for more efficient way
 7. Find Minimum in a Sorted Array: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/4012528/python-solution/
+
+### Day 3: September 7
+8. Maximum Product Subarray
+9. 3 Sum
+10. Search in Rotated Sorted Array 
