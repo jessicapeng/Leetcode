@@ -22,9 +22,9 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 6. Product of Array Except Self: https://leetcode.com/problems/product-of-array-except-self/solutions/4012469/python-solution/ <-- need to fix this for more efficient way
 7. Find Minimum in a Sorted Array: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/4012528/python-solution/
 
-### Day 3: September 7
+#### Day 3: September 7
 8. Maximum Product Subarray
 9. 3 Sum
 
-### Day 4: September 8
+#### Day 4: September 8
 11. Search in Rotated Sorted Array 
