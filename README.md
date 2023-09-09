@@ -24,10 +24,15 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 
 #### Day 3: September 7
 8. Maximum Product Subarray
-9. 3 Sum: https://leetcode.com/problems/3sum/solutions/4022876/3sum-simple-python-solution-explained/
+9. [3 Sum](https://leetcode.com/problems/3sum/): https://leetcode.com/problems/3sum/solutions/4022876/3sum-simple-python-solution-explained/
 
 #### Day 4: September 8
 11. Search in Rotated Sorted Array
 
-### Day 5: September 9
-12. Sum of (Two Integers)[https://leetcode.com/problems/sum-of-two-integers/]
+#### Day 5: September 9
+9. 3Sum (Review)
+12. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+13. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+14. [Counting Bits](https://leetcode.com/problems/counting-bits/)
+15. [Missing Number](https://leetcode.com/problems/missing-number/)
+16. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
