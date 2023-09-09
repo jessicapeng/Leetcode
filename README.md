@@ -33,6 +33,6 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 9. 3Sum (Review)
 12. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 13. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/): https://leetcode.com/problems/number-of-1-bits/solutions/4022962/python-bit-operator-mask-solution/
-14. [Counting Bits](https://leetcode.com/problems/counting-bits/)
+14. [Counting Bits](https://leetcode.com/problems/counting-bits/): (https://leetcode.com/problems/counting-bits/solutions/4023338/python-n-log-n-solution-implementing-number-of-one-bits/)
 15. [Missing Number](https://leetcode.com/problems/missing-number/)
 16. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
