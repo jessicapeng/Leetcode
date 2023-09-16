@@ -40,7 +40,7 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 #### Day 6: September 16
 
 17. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/): 
-18. [Coin change](https://leetcode.com/problems/coin-change/):
+18. [Coin Change](https://leetcode.com/problems/coin-change/):
 19. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 20. [Detect Cycle Linked List](https://leetcode.com/problems/linked-list-cycle/)
 21. [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
