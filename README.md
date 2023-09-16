@@ -36,3 +36,15 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 14. [Counting Bits](https://leetcode.com/problems/counting-bits/): https://leetcode.com/problems/counting-bits/solutions/4023338/python-n-log-n-solution-implementing-number-of-one-bits/
 15. [Missing Number](https://leetcode.com/problems/missing-number/)
 16. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+
+#### Day 6: September 16
+
+17. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/): 
+18. [Coin change](https://leetcode.com/problems/coin-change/):
+19. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+20. [Detect Cycle Linked List](https://leetcode.com/problems/linked-list-cycle/)
+21. [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+22. [Valid Anagrams](https://leetcode.com/problems/valid-anagram/description/): https://leetcode.com/problems/valid-anagram/submissions/1051232006/
+24. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/): https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/4053189/python-easy-solution/
+25. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+26. [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
