@@ -48,3 +48,4 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 24. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/): https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/4053189/python-easy-solution/
 25. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 26. [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
+27. 27. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)
