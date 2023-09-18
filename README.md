@@ -12,7 +12,7 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 3-5 leetcode problems a day 
 
 #### Day 1: September 5
-1. Two Sum [Link]() https://leetcode.com/problems/two-sum/solutions/625885/95-runtime-5-memory/
+1. Two Sum [Link]() [My Solution](https://leetcode.com/problems/two-sum/solutions/625885/95-runtime-5-memory/)
 2. Buy Sell [Link]() https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/1413644/python-o-n-one-pass-simple-faster-than-99/
 3. Remove Duplicates [Link]() https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 4. Container with most water [Link]() https://leetcode.com/problems/container-with-most-water/solutions/4016631/python-solution/
