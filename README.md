@@ -55,5 +55,5 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 29. [Invert/Flip Bin Tree](https://leetcode.com/problems/invert-binary-tree/submissions/612255808/): https://leetcode.com/problems/invert-binary-tree/solutions/4057117/python-solution/
 30. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/): https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/4057211/python-solution-using-dictionary-to-store-levels-with-key-level-value-node-values/
     Better solution: https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/3941108/python3-beats-95-iterative-level-order-traversal-of-a-tree/r
-31. [ Subtree of another tree](https://leetcode.com/problems/same-tree):
+31. Subtree of another tree: [Problem](https://leetcode.com/problems/same-tree) [My Solution]()
 32.
