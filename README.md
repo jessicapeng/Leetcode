@@ -47,13 +47,13 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 22. [Valid Anagrams](https://leetcode.com/problems/valid-anagram/description/): https://leetcode.com/problems/valid-anagram/submissions/1051232006/
 24. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/): https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/4053189/python-easy-solution/
 25. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
-26. [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
-27.  [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)
+27.  [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/): https://leetcode.com/problems/meeting-rooms/solutions/4058391/python-solution/
 
 #### Day 7: September 17
-28. [Same tree](https://leetcode.com/problems/same-tree/):
+28. [Same tree](https://leetcode.com/problems/same-tree/): 
 29. [Invert/Flip Bin Tree](https://leetcode.com/problems/invert-binary-tree/submissions/612255808/): https://leetcode.com/problems/invert-binary-tree/solutions/4057117/python-solution/
 30. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/): https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/4057211/python-solution-using-dictionary-to-store-levels-with-key-level-value-node-values/
     Better solution: https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/3941108/python3-beats-95-iterative-level-order-traversal-of-a-tree/r
-31. Subtree of another tree: [Problem](https://leetcode.com/problems/same-tree) [My Solution]()
-32.
+31. [Subtree of another tree](https://leetcode.com/problems/same-tree):
+32. [Combination Sum](https://leetcode.com/problems/combination-sum/): https://leetcode.com/problems/combination-sum/solutions/4058951/simple-python-solution-with-for-loop/
+33. [Insert Interval](https://leetcode.com/problems/insert-interval/description/):  DO THIS!!!
