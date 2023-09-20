@@ -57,3 +57,10 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 31. [Subtree of another tree](https://leetcode.com/problems/same-tree):
 32. [Combination Sum](https://leetcode.com/problems/combination-sum/): https://leetcode.com/problems/combination-sum/solutions/4058951/simple-python-solution-with-for-loop/
 33. [Insert Interval](https://leetcode.com/problems/insert-interval/description/):  DO THIS!!!
+
+#### Day 8: September 18
+34. [House Robber](https://leetcode.com/problems/house-robber/): https://leetcode.com/problems/house-robber/solutions/4066373/python-simple-solution/
+35. [House Robber II]
+
+#### Day 9: September 19
+36. [Merge Intervals](https://leetcode.com/problems/merge-intervals/):
