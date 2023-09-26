@@ -63,4 +63,5 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 35. [House Robber II]
 
 #### Day 9: September 19
-36. [Merge Intervals](https://leetcode.com/problems/merge-intervals/):
+36. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+37. [Insert Interval](https://leetcode.com/problems/insert-interval/)
