@@ -65,3 +65,7 @@ https://www.techinterviewhandbook.org/coding-interview-study-plan/
 #### Day 9: September 19
 36. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 37. [Insert Interval](https://leetcode.com/problems/insert-interval/)
+
+### Day 10: September 27
+38. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)
+
